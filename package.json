@@ -1,0 +1,23 @@
+{
+  "name": "mui-colors-pure",
+  "version": "1.0.0",
+  "description": "For mui colors only js and scss",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zqsun0/mui-colors-pure.git"
+  },
+  "author": "zqsun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zqsun0/mui-colors-pure/issues"
+  },
+  "homepage": "https://github.com/zqsun0/mui-colors-pure#readme",
+  "dependencies": {
+    "typescript": "^5.0.4"
+  }
+}
