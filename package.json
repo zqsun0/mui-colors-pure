@@ -1,6 +1,6 @@
 {
   "name": "mui-colors-pure",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "For mui colors only js and scss",
   "main": "dist/index.js",
   "styles": "scss",
