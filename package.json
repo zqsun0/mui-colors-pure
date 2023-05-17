@@ -19,6 +19,8 @@
   },
   "homepage": "https://github.com/zqsun0/mui-colors-pure#readme",
   "dependencies": {
+  },
+  "devDependencies": {
     "typescript": "^5.0.4"
   }
 }
