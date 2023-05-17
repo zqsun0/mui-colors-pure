@@ -8,6 +8,7 @@
   "scripts": {
     "build": "tsc"
   },
+  "keywords": ["mui","mui-color","color"],
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zqsun0/mui-colors-pure.git"
