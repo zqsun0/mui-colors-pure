@@ -1,4 +1,3 @@
-import '../scss/mui-colors.scss';
 const amber = {
   50: '#fff8e1',
   100: '#ffecb3',

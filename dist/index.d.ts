@@ -1,4 +1,3 @@
-import '../scss/mui-colors.scss';
 declare const amber: {
     50: string;
     100: string;

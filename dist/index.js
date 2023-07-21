@@ -1,7 +1,6 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.yellow = exports.teal = exports.red = exports.purple = exports.pink = exports.orange = exports.lime = exports.lightGreen = exports.lightBlue = exports.indigo = exports.grey = exports.green = exports.deepPurple = exports.deepOrange = exports.cyan = exports.brown = exports.blueGrey = exports.blue = exports.amber = void 0;
-require("../scss/mui-colors.scss");
 const amber = {
     50: '#fff8e1',
     100: '#ffecb3',
