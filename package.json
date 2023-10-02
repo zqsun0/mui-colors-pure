@@ -1,9 +1,9 @@
 {
   "name": "mui-colors-pure",
-  "version": " 1.0.8",
+  "version": " 1.0.9",
   "description": "For mui colors in js and scss",
   "main": "dist/index.js",
-  "styles": "scss",
+  "styles": "css",
   "types": "dist/index.d.ts",
   "scripts": {
     "build": "tsc"
