@@ -1,6 +1,6 @@
 {
   "name": "mui-colors-pure",
-  "version": " 1.0.9",
+  "version": " 1.0.10",
   "description": "For mui colors in js and scss",
   "main": "dist/index.js",
   "styles": "css",
@@ -18,7 +18,7 @@
     "url": "git+https://github.com/zqsun0/mui-colors-pure.git"
   },
   "author": "zqsun",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/zqsun0/mui-colors-pure/issues"
   },
