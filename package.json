@@ -1,6 +1,6 @@
 {
   "name": "mui-colors-pure",
-  "version": " 1.0.10",
+  "version": " 1.0.11",
   "description": "For mui colors in js and scss",
   "main": "dist/index.js",
   "styles": "css",
@@ -22,7 +22,7 @@
   "bugs": {
     "url": "https://github.com/zqsun0/mui-colors-pure/issues"
   },
-  "homepage": "https://github.com/zqsun0/mui-colors-pure#readme",
+  "homepage": " https://zqsun0.github.io/mui-colors-pure-introduction",
   "dependencies": {},
   "devDependencies": {
     "typescript": "^5.0.4"
